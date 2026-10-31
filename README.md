@@ -27,3 +27,6 @@ superior (`TopAppBar`), formulario interactivo y una lista dinámica en tiempo r
 * **Manejo de Estado:** Android Lifecycle ViewModel &amp; `mutableStateOf`
 * **Control de Versiones:** Git &amp; GitHub
 * **Control de Versiones:** Git &amp; GitHub
+
+Abajo aparece una pre visualizacion de la aplicacion corriendo en un dispositivo Android:
+![KotlinPet Manager App](KotlinPet\_Manager\_Visualizacion.jpeg)
